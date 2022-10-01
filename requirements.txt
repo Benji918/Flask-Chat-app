@@ -51,3 +51,4 @@ urllib3==1.26.11
 Werkzeug==2.2.1
 zope.event==4.5.0
 zope.interface==5.4.0
+https://github.com/eventlet/eventlet/archive/master.zip
